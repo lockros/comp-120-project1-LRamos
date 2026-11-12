@@ -23,6 +23,7 @@ The integral functions of this project:
 - gameplay (char board[]), where the main functions of the game are, combining all of the previous functions into this one to make main cleaner.
 
 How to start the game:
+
 When the game starts the screen will ask you to input a number from 0 to 8, if you put a number within this range then a box will be filled with a O, and the goal is to get three O's in a row.
 
 
