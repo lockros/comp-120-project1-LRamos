@@ -4,8 +4,11 @@ Description
 This project is a tic tac toe game that has two players, the user and the computer. This project demonstrates basic concepts of the C++ programming language and applies them to make something a little more complex. The concepts are as follow:
 
 -Functions
+
 -Loops (for, while, do-while)
+
 -Random number generator
+
 -Arrays
 
 The integral functions of this project:
